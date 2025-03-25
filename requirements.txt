@@ -1,0 +1,10 @@
+Django
+djangorestframework
+psycopg2-binary
+djangorestframework-simplejwt
+django-cors-headers
+channels
+channels-redis
+python-decouple
+daphne
+django-extensions
