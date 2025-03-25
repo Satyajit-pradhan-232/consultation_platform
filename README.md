@@ -17,7 +17,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ```bash
 git clone https://github.com/Satyajit-pradhan-232/consultation_platform.git
-cd Consultation_platform
+cd consultation_platform
 ```
 
 2. **Create a virtual environment**
